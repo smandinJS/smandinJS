@@ -1,4 +1,4 @@
-### Hi there 👋
+### * I thank ChatGPT after instructing it to do perform a task *
 
 <!--
 **smandinJS/smandinJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
